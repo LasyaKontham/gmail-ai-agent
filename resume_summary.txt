@@ -1,0 +1,155 @@
+
+LASYA REDDY KONTHAM
+Phone: 7174170596 | Email: lasyak605@gmail.com
+
+PROFESSIONAL SUMMARY
+IT Professional with 5+ years of experience as System Engineer in VMware Virtualization, Azure, and Citrix environments, managing complex infrastructures across both on-premises and cloud platforms. Proficient in automating tasks using Python and PowerShell, and handling cloud services like Azure and AWS.
+•	Expertise in administering and supporting Windows Server 2008/2012/2016/2019/2022 environments in enterprise infrastructures. 
+•	Extensive experience with VMware virtualization technologies including ESXi, vSphere, vCenter, vMotion, HA, DRS, and vSAN across VMware 5.x–8.x environments. 
+•	Managed and maintained enterprise VMware infrastructure, including installation, configuration, monitoring, patching, upgrades, and performance optimization. 
+•	Implemented and supported virtualization solutions using ESXi hosts, vCenter Server, and VMware clustering technologies. 
+•	Strong experience in Active Directory administration, including GPOs, DNS, DHCP, LDAP, Sites & Services, AD replication, FSMO roles, and Azure AD Connect. 
+•	Administered and maintained Windows patch management using SCCM, WSUS, and BladeLogic to ensure security compliance and system stability. 
+•	Configured and managed Azure infrastructure services, including Azure AD, Azure Storage, Office 365, Azure Virtual Desktop (AVD), and Azure Site Recovery. 
+•	Designed and managed Azure Virtual Desktop (AVD) environments, including host pools, application streaming, autoscaling, image management, and disaster recovery planning. 
+•	Migrated on-premises VDI environments to Azure Virtual Desktop, improving scalability and reducing infrastructure maintenance costs. 
+•	Implemented and supported VMware Horizon/View VDI environments, including linked clones, persistent disks, and thin client deployments. 
+•	Experience supporting Microsoft Intune for endpoint management, application deployment, compliance policies, and mobile device security. 
+•	Configured and managed MDM solutions for mobile devices, including troubleshooting mobile applications and enforcing security protocols. 
+•	Hands-on experience with Microsoft Exchange Server 2016/2019 administration and Office 365 identity management. 
+•	Experience managing and supporting Dell PowerEdge, HP ProLiant, and Cisco UCS servers in enterprise data center environments. 
+•	Strong knowledge of AWS cloud services, including VPCs, subnets, NAT gateways, S3 buckets, and infrastructure automation using CloudFormation and Terraform. 
+•	Automated infrastructure deployment and configuration management using Terraform, Jenkins, Azure DevOps, PowerShell, Bash, and Python scripting. 
+•	Created and maintained PowerShell scripts for automation of Windows administration, Active Directory, Azure AD, and Office 365 tasks. 
+•	Experience supporting Linux environments including Red Hat Enterprise Linux and CentOS platforms. 
+•	Provided remote support using RDP, Cisco VPN, UltraVNC, and Microsoft Remote Access solutions. 
+•	Managed incidents, service requests, and change management activities using ServiceNow and Remedy ticketing systems. 
+•	Implemented security best practices and compliance standards across Windows, cloud, and endpoint environments. 
+•	Delivered strong end-user support and collaborated with cross-functional teams to resolve infrastructure, virtualization, and endpoint-related issues.
+
+
+
+
+PROFESSIONAL EXPERIENCE
+Client: Mass General Brigham                                                                                                                                               Oct 2024 - Present
+Role: System Engineer
+Responsibilities:
+•	Provided technical support for Windows and macOS endpoints, troubleshooting hardware, software, and connectivity issues.
+•	Managed enterprise endpoint environments using Microsoft Intune and Microsoft Configuration Manager for device management, software deployment, and patch management. 
+•	Administered user accounts, security groups, and access permissions within Active Directory and Microsoft Azure / Entra ID environments.
+•	Provided administration and end-user support for Microsoft 365 services including Outlook, Teams, OneDrive, Exchange Online, and SharePoint Online.
+•	Managed Microsoft 365 user provisioning, licensing, mailbox administration, password resets, and access management.
+•	Configured and maintained Group Policy (GPOs) to enforce enterprise security standards and endpoint compliance.
+•	Supported Microsoft Autopilot deployments for zero-touch provisioning and enterprise device onboarding.
+•	Designed zero-touch onboarding workflows using Apple Business Manager and JAMF PreStage Enrollment, reducing laptop provisioning time by 70%.
+•	Developed automated solutions using PowerShell for software deployment, patch management, and system administration tasks. 
+•	Performed hardware diagnostics, SSD/RAM upgrades, and warranty coordination for MacBook Pro and iMac systems. 
+•	Collaborated with security teams to enforce FileVault encryption, password policies, and endpoint compliance standards.
+•	Engineered and maintained workstation imaging and operating system deployment processes using SCCM task sequences. 
+•	Managed enterprise application packaging, deployment, troubleshooting, and version control for business-critical applications. 
+•	Configured and supported FSLogix profile management in virtual desktop and remote environments. 
+•	Automated scheduled maintenance and deployment activities using Windows Task Scheduler and PowerShell scripts. 
+•	Performed endpoint patch management, security updates, and vulnerability remediation across Windows environments. 
+•	Provided Level 1/Level 2 technical support for Windows 10/11, Microsoft 365, VPN, networking, printers, and remote users. 
+•	Supported hybrid cloud infrastructure integrating on-premises Active Directory with Azure cloud technologies. 
+•	Collaborated with infrastructure and security teams to improve endpoint performance, compliance, and operational efficiency. 
+•	Maintained technical documentation, deployment procedures, SOPs, and knowledge base articles. 
+•	Managed workstation lifecycle activities including provisioning, imaging, migration, hardware refresh, and decommissioning.
+
+
+Client: AOPC (State Project)                        						                    April 2024 – September 2024
+Role: System Administrator
+Responsibilities:
+
+•	Installed, configured, and managed VMware vSphere/ESXi 6.x, 7.x, and 8.x environments, including vCenter Server administration. 
+•	Deployed and administered core infrastructure services including Active Directory, DNS, DHCP, file servers, and Group Policy Objects (GPOs). 
+•	Configured and managed VMware Horizon View 7.x/8.x VDI environments, including desktop pools, application packages, security policies, and user access management. 
+•	Implemented and administered VMware App Volumes for scalable application delivery in VDI environments. 
+•	Designed and configured virtual networking, VLANs, and subnet-based server connectivity across enterprise environments. 
+•	Managed and maintained HP Blade Servers and Cisco UCS infrastructure across multiple data centers. 
+•	Performed installation, upgrades, patching, troubleshooting, and lifecycle management of VMware and Cisco UCS environments. 
+•	Migrated ESXi hosts and virtual machines from HP infrastructure to Cisco UCS environments with minimal downtime. 
+•	Provided LAN/WAN support including deployment and configuration of routers, switches, wireless networks, firewalls, and voice technologies. 
+•	Delivered remote support for Microsoft Exchange, Skype for Business, and Microsoft 365 post-migration environments. 
+•	Designed and implemented enterprise monitoring solutions using SolarWinds Network Performance Monitor (NPM). 
+•	Administered SCCM for client installation, software deployment, remote administration, and troubleshooting. 
+•	Built and automated CI/CD pipelines using GitLab, Jenkins, and Puppet across hybrid cloud infrastructures. 
+•	Designed and deployed AWS-based data pipelines utilizing EMR, Lambda, Glue, DynamoDB, EC2, S3, RDS, Elastic Load Balancer, and Auto Scaling services. 
+•	Configured AWS Route 53, IAM policies, VPCs, public/private subnets, and security groups to enhance cloud security and traffic routing. 
+•	Managed Hyper-V virtual infrastructure including VHD/VHDX provisioning, live migration, storage migration, and VM import/export operations. 
+•	Implemented disaster recovery and business continuity solutions using VMware Site Recovery Manager (SRM) and replication technologies. 
+•	Created and managed Active Directory Organizational Units (OUs), user permissions, security groups, and GPO configurations. 
+•	Troubleshot PKI and certificate-related issues by modifying Group Policy settings and updating remediation scripts for support teams. 
+•	Utilized SQL for querying, reporting, and managing SharePoint-related data and backend operations.
+
+
+Client:  Walgreens	                                                                                                                              2023 July – 2023 December                                                                
+Role: Cloud / Virtualization Engineer 
+Responsibilities:
+•	Designed, deployed, and administered Windows Server 2016, and 2019 environments in enterprise infrastructure setups. 
+•	Installed, configured, and managed VMware ESXi hosts and vCenter Server environments on HP, Dell, and IBM hardware platforms. 
+•	Performed VMware infrastructure upgrades, patch management, VMware Tools upgrades, and lifecycle management for ESXi hosts and vCenter components. 
+•	Managed VMware Horizon VDI environments, including ESXi host provisioning, vCenter upgrades, desktop pool management, and performance optimization. 
+•	Monitored VMware Horizon and vSphere environments using VMware vRealize Operations (vROps) and SolarWinds for proactive issue resolution and capacity planning. 
+•	Collaborated with storage and networking teams to integrate SAN storage (EMC Symmetrix VMAX), Fiber Channel, and enterprise networking infrastructure for VMware deployments. 
+•	Deployed and supported Azure Virtual Desktop (AVD) environments to improve secure remote access and user experience across geographically distributed teams. 
+•	Provisioned and managed Azure IaaS resources including Virtual Machines, Storage Accounts, Virtual Networks, NSGs, and Azure Backup services. 
+•	Automated Azure VM deployment, storage provisioning, and network configurations using PowerShell scripting and Azure Portal. 
+•	Implemented Microsoft Intune and Windows Autopilot solutions for endpoint provisioning, device compliance, conditional access, and mobile device management (MDM). 
+•	Administered Azure Active Directory (Azure AD) and Microsoft 365 environments, including identity synchronization, user access management, and permission troubleshooting. 
+•	Migrated on-premises SQL Server 2019 databases to Azure SQL Database to support cloud modernization initiatives. 
+•	Managed Azure infrastructure monitoring and alerting using System Center Operations Manager (SCOM) and SolarWinds SAM. 
+•	Configured Azure Backup and disaster recovery solutions to ensure business continuity and data protection for critical workloads. 
+•	Performed server builds, RAID configuration, OS installations, system hardening, patching, and performance tuning across virtual and physical environments. 
+•	Supported hybrid cloud infrastructure environments including Azure, Hyper-V, VMware, and enterprise Windows platforms. 
+•	Troubleshot Active Directory issues including deleted object recovery, AD Recycle Bin restoration, identity synchronization, and authentication-related incidents. 
+•	Implemented security best practices including Conditional Access Policies, MFA, endpoint compliance, and role-based access control (RBAC) within Azure environments.
+
+
+Client: Tech Mahindra, India	                                                                                                                    September 2021—July 2022
+Role: Windows System Administrator
+Responsibilities:
+
+•	Installed, configured, and administered Windows Server 2016, and Red Hat Enterprise Linux (RHEL) virtual machine environments. 
+•	Managed and supported VMware vSphere environments, including ESXi 6.5/6.7 hosts and vCenter Server administration. 
+•	Administered VMware infrastructure on HP BladeSystem C7000/C3000 hardware platforms. 
+•	Configured and maintained VMware HA, DRS clusters, resource pools, and virtual machine lifecycle management. 
+•	Performed VM provisioning, cloning, snapshots, cold/hot migrations, and vMotion activities across ESXi environments. 
+•	Configured and managed virtual networking components including vSwitches, VMkernel ports, VLANs, and NIC teaming for load balancing and failover. 
+•	Managed enterprise infrastructure services including Active Directory, DNS, DHCP, IIS, and Windows server administration in physical and virtual environments. 
+•	Built and maintained Citrix virtual desktop environments to support enterprise end users and remote access requirements. 
+•	Integrated and managed SAN, NAS, and iSCSI storage solutions within VMware environments in collaboration with storage teams. 
+•	Monitored infrastructure health, system performance, and event logs using PowerShell scripting and enterprise monitoring tools. 
+•	Automated reporting and administrative tasks for ESXi hosts and virtual machines using PowerShell scripts. 
+•	Performed system patching, OS upgrades, hotfix deployments, and server hardening using BladeLogic Patch Management. 
+•	Configured monitoring alerts, scheduled tasks, and load-balancing solutions to improve infrastructure availability and performance. 
+•	Customized and optimized virtual machine resources including CPU, memory, storage, and network configurations based on application requirements. 
+•	Troubleshot infrastructure, virtualization, and network-related issues across VMware, Windows Server, and Citrix environments. 
+•	Created and managed Active Directory users, groups, organizational units (OUs), and access permissions.
+
+
+Client: Infosys, India	                                                                                                                                           March 2021—August 2021
+Role: IT Support Technician
+Responsibilities:
+
+•	Administrating production servers/network infrastructure that includes Windows Administration of Domain Controllers, File and print Servers, POS servers, DNS, DHCP, WINS and ISA 2005 Servers and other Application Servers on Windows 2012/2016.
+•	Responsible for server deployments, which include application installations, operating system updates and security patches. Understanding of Windows Active Directory, DNS, DHCP, Windows Desktop and Remote Desktop. 
+•	Experience in installing and configuring the Windows server update services (WSUS). 
+•	Working with VB and PowerShell Script Active Directory.  Configuring backups on VERITAS NetBackup and perform backups and restorations Automating repetitive tasks via scripts. Provide documentation for all server changes, installations, and upgrades.
+•	Creating new user Accounts and Security Groups in Active Directory.
+•	Experience in Migrating Group and Exception Policies from one domain to other domain in AD forest. Planning, designing and implementing the various solutions on windows server platform technologies and its components like Active directory, DFS shares, RDS Service and high availability cluster environment.
+•	Installation & Configuration of software packages in Redhat Linux using both yum and rpm installations. 
+•	Resolving the day-to-day hardware and platform level incidents and requests through IT resource Management Tools such as HP Service Manager 9, Service Now. 
+•	Active Directory Administration & Management, Creating and managing Active Directory GPOs, Windows Infrastructure Design and Management, OS & Security Patch Deployment, Applications Deployment using Active Directory, Servers Security Management and User Policies.
+•	Troubleshooting user issues related to Resetting passwords and Unlocking User accounts.
+•	Troubleshooting Unix/Linux network and security related issues.
+
+
+EDUCATION
+•	Bachelors in Electronics & Communication Engineering - JNTUH, INDIA
+CERTIFICATION
+•	Certification on Microsoft Azure Administrator Associate AZ-104
+•	Certification on Azure Fundamentals AZ-900
+•	Certification on Designing and Implementing Microsoft DevOps Solutions AZ-400
+•	AWS certified solutions Architect - Associate.
+•	Certification as a Terraform Associate.
