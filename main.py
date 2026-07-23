@@ -20,7 +20,7 @@ from googleapiclient.discovery import build
 # =====================================
 
 SCOPES = [
-    "https://www.googleapis.com/auth/gmail.readonly",
+    "https://www.googleapis.com/auth/gmail.modify",
     "https://www.googleapis.com/auth/gmail.send"
 ]
 
@@ -498,6 +498,15 @@ def read_emails():
                     recruiter_email,
                     subject
                 )
+
+                # Mark email as read so it is not processed again
+                service.users().messages().modify(
+                    userId="me",
+                    id=msg["id"],
+                    body={"removeLabelIds":["UNREAD"]}
+                ).execute()
+
+                print("Email marked as read.")
 
                 print(
                     "Send function completed."
